@@ -1,0 +1,115 @@
+[
+  {
+    "user": "Croswell Bowen",
+    "from": "mhallatt0@walmart.com",
+    "to": "cziem0@surveymonkey.com",
+    "subject": "Office Assistant IV",
+    "body": "condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",
+    "date": "3/31/2017",
+    "isReaded": false,
+    "isDeleted": false,
+    "isSpam": false,
+    "avatar": "https://robohash.org/dignissimosetsuscipit.jpg?size=50x50&set=set1",
+    "tag": "Indigo",
+    "attachements": [
+      {
+        "file": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+        "name": "ut_nulla_sed.jpeg"
+      }
+    ]
+  },
+  {
+    "user": "Bean Bradlee",
+    "from": "nmulbery1@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Technical Writer",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/17/2016",
+    "isReaded": false,
+    "isDeleted": false,
+    "isSpam": false,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": []
+  },
+  {
+    "user": "Edna Lee",
+    "from": "edna1@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Quote SF",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/18/2016",
+    "isReaded": false,
+    "isDeleted": false,
+    "isSpam": false,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": []
+  },
+  {
+    "user": "David Halberstam",
+    "from": "halberDavid@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Travel DYO",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/21/2016",
+    "isReaded": true,
+    "isDeleted": false,
+    "isSpam": false,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": [
+      {
+        "file": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+        "name": "ut_nulla_sed.jpeg"
+      }
+    ]
+  },
+  {
+    "user": "Les Biederman",
+    "from": "biderman@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Customer Success",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/03/2016",
+    "isReaded": true,
+    "isDeleted": false,
+    "isSpam": false,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": [
+      {
+        "file": "http://dummyimage.com/250x250.jpg/5fa2dd/ffffff",
+        "name": "ut_nulla_sed.jpeg"
+      }
+    ]
+  },
+  {
+    "user": "Ruth Gruber",
+    "from": "ruthGu@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Reservation ",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/05/2016",
+    "isReaded": true,
+    "isDeleted": true,
+    "isSpam": false,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": []
+  },
+  {
+    "user": "Ring Lardner",
+    "from": "ruthGu@seattletimes.com",
+    "to": "idimont1@usa.gov",
+    "subject": "Credit Card charges ",
+    "body": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",
+    "date": "11/09/2016",
+    "isReaded": true,
+    "isDeleted": false,
+    "isSpam": true,
+    "avatar": "https://robohash.org/aliquamautdolore.jpg?size=50x50&set=set1",
+    "tag": "Teal",
+    "attachements": []
+  }
+]

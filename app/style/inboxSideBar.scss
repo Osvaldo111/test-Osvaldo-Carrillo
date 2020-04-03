@@ -1,0 +1,17 @@
+.inboxCt {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.emailCdCt {
+  overflow: auto;
+}
+.emailCdCtLd {
+  display: flex;
+  justify-content: center;
+  margin-top: 35px;
+}

@@ -1,0 +1,44 @@
+.emBdyNvCt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  border-bottom: solid;
+  border-width: 1.5px;
+  border-color: rgb(244, 245, 245);
+  background-color: #f4f5f5;
+  border-bottom: solid #e7e7e7 1.5px;
+}
+
+.emBdNavRgBTn {
+  display: inline-flex;
+}
+.bttnDlt,
+.btnSpam,
+.btnMrkUrd {
+  border: none;
+  padding: 6px 10px;
+  border-radius: 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bttnDlt {
+  background-color: #fc3401;
+  color: white;
+  margin-left: 25px;
+}
+.btnSpam {
+  background-color: #f4f5f5;
+  border-color: #e7e7e7;
+  border-style: solid;
+  border-width: 1px;
+  margin-left: 10px;
+}
+.btnMrkUrd {
+  background-color: #03b9ed;
+  color: white;
+  margin-right: 15px;
+}

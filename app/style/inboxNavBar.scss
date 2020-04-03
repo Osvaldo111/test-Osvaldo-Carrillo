@@ -1,0 +1,44 @@
+.inbNavCt {
+  // width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.inbNavBr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  border-bottom: solid;
+  border-width: 1.5px;
+  border-color: #f4f5f5;
+}
+
+.nvBrIn {
+  padding-left: 20px;
+  font-weight: 600;
+}
+
+.nvBrIn > span {
+  background-color: #fc3401;
+  border: none;
+  color: white;
+  padding: 2px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50px;
+  margin-left: 10px;
+}
+.nvBrFlt {
+  padding-right: 20px;
+}
+
+.nvBrSrcCt {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid;
+  border-color: #f4f5f5;
+  border-width: 1.5px;
+}

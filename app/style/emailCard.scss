@@ -1,0 +1,30 @@
+.emCrdCt {
+  border-bottom: 1.5px solid #f4f5f5;
+  transition: 0.3s;
+  height: 65px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.emCrdCt:hover {
+  background-color: #f4f5f5;
+}
+.emlCrdTp,
+.emCrdBt {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+}
+
+.emlCrdTp {
+  margin-bottom: 5px;
+}
+.emCrdBt {
+  margin-top: 5px;
+}
+
+.emlCrdTp > div:first-child {
+  font-weight: 600;
+}
